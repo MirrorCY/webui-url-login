@@ -14,6 +14,10 @@
     "koishi",
     "plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirrorCY/webui-url-login.git"
+  },
   "devDependencies": {
     "@koishijs/client": "^5.29.4"
   },
